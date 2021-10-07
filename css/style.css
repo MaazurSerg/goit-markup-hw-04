@@ -81,15 +81,6 @@ body {
   color: var(--third-text-color);
 }
 
-/* .smartphone-icon:hover,
-.smartphone-icon:focus,
-.smartphone-icon:active,
-.mail-icon:hover,
-.mail-icon:focus,
-.mail-icon:active {
-  color: var(--third-text-color);
-} */
-
 .card-btn:hover,
 .card-btn:focus,
 .card-btn:active {
